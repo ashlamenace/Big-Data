@@ -1,10 +1,5 @@
 world_data/
-checkup_data/
-archive*.zip
 models/
-checkup_clean.parquet/
-scores.parquet/
-build_nb.py
 __pycache__/
 spark-warehouse/
 .ipynb_checkpoints/
